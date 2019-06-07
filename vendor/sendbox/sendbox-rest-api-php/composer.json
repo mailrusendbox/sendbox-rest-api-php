@@ -1,0 +1,12 @@
+{
+  "name": "sendbox/sendbox-rest-api-php",
+  "description": "The Sendbox API functions.",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": [
+      "api/"
+    ]
+  }
+}
